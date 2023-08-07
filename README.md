@@ -1,4 +1,4 @@
-# football-players-mapping
+# football-players-detection-localization-mapping
 
 
 
